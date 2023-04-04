@@ -23,5 +23,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40" />
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="Spring" height="30" width="40" />
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="MySql" height="30" width="40" />
 </p>
  
