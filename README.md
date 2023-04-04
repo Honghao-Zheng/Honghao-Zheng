@@ -1,9 +1,9 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Honghao Zheng, a recent Computer Science graduate from University of Birmingham.
 
-- 🏢 I'm currently working at Sparta Global as a Java Software Developer trainee
+- 🏢 I'm currently looking for job as a Junior Software Ddeveloper
 - 📫 How to contact me: 
      - Personal: honghaozheng.jason@gmail.com
-     - Work: Hzheng@spartaglobal.com
+     - Work: honghao@workmail.com
 
 ### Social media profiles
 <p align="left">
