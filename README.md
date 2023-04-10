@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Honghao Zheng, a recent Computer Science graduate from the University of Birmingham.
 
-- 🏢 I'm currently looking for job as a Junior Software Developer
+- 🏢 I'm currently looking for a job as a Junior Software Developer
 - 📫 How to contact me: 
      - Personal: honghaozheng.jason@gmail.com
      - Work: honghao@workmail.com
