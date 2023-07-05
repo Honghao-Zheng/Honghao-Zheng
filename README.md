@@ -8,8 +8,8 @@
 ### Social media profiles
 <p align="left">
 
-<a href="https://www.linkedin.com/in/honghao-zheng"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" height="40" width="120" /></a>
-<a href="https://www.instagram.com/jasontty666/"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram profile" height="40" width="120" /></a>
+<a href="https://www.linkedin.com/in/honghao-zheng"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" height="30" width="120" /></a>
+<a href="https://www.instagram.com/jasontty666/"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram profile" height="30" width="120" /></a>
 
 
 
