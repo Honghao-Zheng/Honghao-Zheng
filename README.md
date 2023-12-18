@@ -1,5 +1,5 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Honghao Zheng, a recent Computer Science graduate from the University of Birmingham.
-
+- 🏢 I'm currently attending the Cloud Engineering bootcamp in Northcoders.
 - 🏢 I'm currently looking for a Graduate Software Developer job.
 - 📫 How to contact me: 
      - Personal: honghaozheng.jason@gmail.com
